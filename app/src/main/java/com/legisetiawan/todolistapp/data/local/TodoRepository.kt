@@ -1,4 +1,4 @@
-package com.legisetiawan.todolistapp.data.local
+package com.legisetiawan.todolistapp.data
 
 import com.legisetiawan.todolistapp.data.local.TodoDao
 import com.legisetiawan.todolistapp.data.local.TodoEntity

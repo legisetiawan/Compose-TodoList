@@ -6,8 +6,8 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
 import androidx.navigation.compose.rememberNavController
-import com.example.todolistapp.ui.screens.AddEditTodoScreen
-import com.example.todolistapp.ui.screens.TodoListScreen
+import com.legisetiawan.todolistapp.ui.screens.AddEditTodoScreen
+import com.legisetiawan.todolistapp.ui.screens.TodoListScreen
 
 @Composable
 fun AppNavigation() {

@@ -11,6 +11,7 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.legisetiawan.todolistapp.viewmodel.TodoViewModel
 
+
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun AddEditTodoScreen(
@@ -23,7 +24,7 @@ fun AddEditTodoScreen(
     var description by remember { mutableStateOf("") }
 
     LaunchedEffect(todoId) {
-        if (todoId != -1) viewModel.loadTodo(todoId) else viewModel.resetCurrentTodo()
+        if (todoId != -1) viewModel.loadTodo(todoId) else viewModel.clearCurrentTodo() //
     }
 
     LaunchedEffect(currentTodo) {
