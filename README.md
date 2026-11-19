@@ -7,13 +7,13 @@ A modern, clean, and efficient To-Do List application built with **Jetpack Compo
 
 | Task List | Add/Edit Task |
 | :---: | :---: |
-| <img src="screenshots/task-list.png" width="250"> | <img src="screenshots/edit-task.png" width="250"> |
+| <img src="screenshots/list.jpg" width="250"> | <img src="screenshots/add.jpg" width="250"> |
 
-*(Ganti nama file `list.png` dan `add.png` sesuai dengan nama file screenshot yang kamu simpan)*
+
 
 ## ✨ Features
 - ✅ **Add, Edit, and Delete** tasks seamlessly.
-- ✅ **Mark as Completed** with a smooth checkbox interaction.
+- ✅ **Mark as Completed** with a smooth checkbox interaction.gi
 - ✅ **Persistent Storage**: Tasks are saved locally using Room Database.
 - ✅ **Real-time UI Updates**: The list updates instantly using Kotlin Flow.
 - ✅ **Clean Architecture**: Follows the MVVM pattern for maintainability.
