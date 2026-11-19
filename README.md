@@ -7,7 +7,7 @@ A modern, clean, and efficient To-Do List application built with **Jetpack Compo
 
 | Task List | Add/Edit Task |
 | :---: | :---: |
-| <img src="screenshots/Screenshot_2026-11-19-17-01-12-92.png" width="250"> | <img src="screenshots/Screenshot_2026-11-19-17-07-48-38.png" width="250"> |
+| <img src="screenshots/task-list.png" width="250"> | <img src="screenshots/edit-task.png" width="250"> |
 
 *(Ganti nama file `list.png` dan `add.png` sesuai dengan nama file screenshot yang kamu simpan)*
 
